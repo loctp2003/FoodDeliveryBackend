@@ -2,7 +2,7 @@
 
 ## Description
 
-AdvancedAppMobile is a Node.js application for building a backend server for a mobile app. It provides various functionalities such as user authentication, file uploads, integration with Firebase services, and payment processing through PayPal.
+AdvancedAppMobile is a Node.js application for building a backend server for a mobile food delivery app. .
 
 ## Installation
 
