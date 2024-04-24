@@ -19,6 +19,7 @@ npm install
 ```
 
 3. Create .env file
+```
    DBUSERNAME="your_user"
    DBPASSWORD="your_password"
    DBCLUSTER=cluster0.elaodyo.mongodb.net
@@ -26,8 +27,8 @@ npm install
    PORT=8000
    AUTH_EMAIL="your_email"
    AUTH_PASS="your_email_password"
-
-4. To start the server,a run:
+```
+5. To start the server,a run:
 
 ```bash
 npm start
